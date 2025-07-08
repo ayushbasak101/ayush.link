@@ -55,7 +55,7 @@ export default function Links() {
   return (
     <div className="flex flex-row gap-3">
       <a
-        href="https://www.x.com/icantcodefyi/"
+        href="https://www.x.com/basakayush942/"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-row items-center justify-start gap-2.5 

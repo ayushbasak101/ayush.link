@@ -204,7 +204,7 @@ export default function Home() {
         </div>
         <div className="flex items-start mt-3 w-full justify-start flex-col">
           <Link
-            href="https://www.x.com/icantcodefyi/"
+            href="https://www.x.com/basakayush942/"
             rel="noopener noreferrer"
             target="_blank"
           >
