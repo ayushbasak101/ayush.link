@@ -33,8 +33,8 @@ export default function Home() {
             className="rounded-full"
           />
           <div className="flex flex-col ml-2">
-            <h1 className="text-base font-bold text-white">Aniruddh</h1>
-            <span className="text-sm text-gray-400">@icantcodefyi</span>
+            <h1 className="text-base font-bold text-white">Ayush</h1>
+            <span className="text-sm text-gray-400">@null</span>
           </div>
         </div>
       </div>
