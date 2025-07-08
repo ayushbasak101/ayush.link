@@ -10,7 +10,7 @@ import WorkExperience from "@/components/workexp";
 import Links from "@/components/links";
 
 export default function Home() {
-  const birthDate = new Date("2005-03-29");
+  const birthDate = new Date("2006-01-21");
   const today = new Date();
   const age =
     today.getFullYear() -
@@ -27,7 +27,7 @@ export default function Home() {
         <div className="container max-w-[512px] flex flex-row">
           <Image
             src="/pfp.jpeg"
-            alt="Aniruddh"
+            alt="Ayush"
             width={44}
             height={44}
             className="rounded-full"
@@ -45,7 +45,7 @@ export default function Home() {
             <Transition />
           </h1>
           <p className="mt-3 text-xl text-gray-400">
-            I&apos;m Aniruddh, a {age} year old developer living in India. I am
+            I&apos;m Ayush, a {age} year old developer living in India. I am
             a self-taught developer who loves to code and make things.
           </p>
           <p className="mt-3 text-xl text-gray-400">

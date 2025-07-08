@@ -8,13 +8,13 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   metadataBase: new URL("https://ani.ink"),
   title: {
-    default: "Aniruddh",
-    template: "%s | Aniruddh",
+    default: "Ayush",
+    template: "%s | Ayush",
   },
   description: "Full Stack Web Developer and Designer from India, specializing in Next.js, React, and TypeScript.",
   keywords: ["Full Stack Developer", "Web Designer", "Next.js", "React", "TypeScript", "India"],
-  authors: [{ name: "Aniruddh", url: "https://ani.ink/" }],
-  creator: "Aniruddh",
+  authors: [{ name: "Ayush", url: "https://ani.ink/" }],
+  creator: "Ayush",
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
@@ -27,15 +27,15 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://ani.ink",
-    siteName: "Aniruddh's Portfolio",
-    title: "Aniruddh - Full Stack Developer",
+    siteName: "Ayush's Portfolio",
+    title: "Ayush - Full Stack Developer",
     description: "Full Stack Web Developer and Designer from India, specializing in Next.js, React, and TypeScript.",
     images: [
       {
         url: "/og.png",
         width: 1200,
         height: 675,
-        alt: "Aniruddh's Profile Picture",
+        alt: "Ayush's Profile Picture",
       },
     ],
   },
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
         url: "/og.png",
         width: 1200,
         height: 675,
-        alt: "Aniruddh's Profile Picture",
+        alt: "Ayush's Profile Picture",
       },
     ],
   },
