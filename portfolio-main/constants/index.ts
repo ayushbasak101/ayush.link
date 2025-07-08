@@ -19,8 +19,8 @@ interface Project {
 
 export const Projects: Project[] = [
   {
-    name: "elafda",
-    slug: "elafda",
+    name: "Refelia",
+    slug: "refelia",
     image: {
       url: "/elafda.webp",
       width: 400,
@@ -41,7 +41,7 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "doblar",
+    name: "Bio-Wizard",
     slug: "doblar",
     image: {
       url: "/doblar.webp",
@@ -63,8 +63,8 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "annu's poems",
-    slug: "annu-poems",
+    name: "Annapurna",
+    slug: "annapurna",
     image: {
       url: "/annu.webp",
       width: 400,
@@ -88,8 +88,8 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "invoicely",
-    slug: "invoicely",
+    name: "Detox",
+    slug: "detox",
     image: {
       url: "/invoicely.png",
       width: 400,
@@ -108,8 +108,8 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "autodiagram",
-    slug: "autodiagram",
+    name: "DummyDB",
+    slug: "dummydb",
     image: {
       url: "/autodiagram.webp",
       width: 400,
