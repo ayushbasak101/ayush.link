@@ -108,7 +108,7 @@ export default function Links() {
         />
       </a>
       <a
-        href="mailto:adubge@gmail.com"
+        href="mailto:ayushworks@duck.com"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-row items-center justify-start gap-2.5 
