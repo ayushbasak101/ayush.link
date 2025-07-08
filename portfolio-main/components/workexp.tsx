@@ -14,28 +14,20 @@ interface WorkExperience {
 
 const experiences: WorkExperience[] = [
   {
-    company: "Leapflow",
+    company: "Primexiaesports",
     position: "Full Stack Developer ",
     location: "Remote",
     duration: "Aug 2024 – Present",
-    link: "https://leapflow.tech",
+    link: "hhttps://primexiaesports.com/",
     image: "/leapflow.svg",
   },
   {
-    company: "Merlin AI",
-    position: "Software Engineer Intern",
-    location: "Bengaluru, India",
-    duration: "Sept 2024 – Feb 2025",
-    link: "https://getmerlin.in",
-    image: "/merlin.svg",
-  },
-  {
-    company: "TechKareer",
+    company: "TaskgroveAI",
     position: "Software Engineer Intern",
     location: "Remote",
-    duration: "Jun 2024 – Aug 2024",
-    link: "https://techkareer.com",
-    image: "/techkareer.jpeg",
+    duration: "Sept 2024 – Feb 2025",
+    link: "http://taskgrove-ai.vercel.app/",
+    image: "/merlin.svg",
   },
 ];
 
