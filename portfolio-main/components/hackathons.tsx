@@ -86,6 +86,7 @@ export default function Hackathons() {
             </div>
           </div>
           <div className="mb-10">
+             <h2 className="text-2xl text-white mb-4">Uncompiled Moments</h2>
             <Masonry data={hackathonImages} />
           </div>
         </div>
