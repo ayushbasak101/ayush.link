@@ -22,7 +22,7 @@ export const Projects: Project[] = [
     name: "Refelia",
     slug: "refelia",
     image: {
-      url: "/image.png",
+      url: "/refelia.webp",
       width: 400,
       height: 200,
       alt: "E-Lafda Platform - Discussion Platform with Twitter Integration"
