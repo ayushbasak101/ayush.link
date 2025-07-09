@@ -160,22 +160,23 @@ export const Projects: Project[] = [
     name: "chotubill",
     slug: "chotubill",
     image: {
-      url: "/aurastake.webp",
+      url: "/urban.webp",
       width: 400,
       height: 200,
-      alt: "Aurastake - Decentralized Productivity Tool"
+      alt: "UrbanOps – Smart City Dashboard for Real-Time Incident Management"
     },
     urls: {
-      liveUrl: "https://aurastake.xyz/",
+      liveUrl: "https://urbanops.vercel.app/",
     },
-    description: "A decentralized productivity tool that uses SOL staking and Aura points to incentivize consistent daily work habits, with public leaderboards and GitHub-style streaks for accountability.",
+    description: "UrbanOps is a smart city command dashboard that monitors real-time incidents across Bengaluru. It features AI-driven event detection, response analytics, and city-wide coverage with live maps, citizen reports, and system health monitoring.",
     tags: [
-      "Productivity",
-      "Staking",
-      "Solana",
-      "Next.js",
-      "TypeScript",
-      "Leaderboards"
+       "Smart City",
+    "AI",
+    "Real-Time Dashboard",
+    "Next.js",
+    "TypeScript",
+    "Incident Management",
+    "Data Visualization"
     ]
   },
 ];
