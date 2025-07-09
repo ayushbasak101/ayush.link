@@ -157,8 +157,8 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "chotubill",
-    slug: "chotubill",
+    name: "UrbanOps",
+    slug: "urbanops",
     image: {
       url: "/urban.webp",
       width: 400,
