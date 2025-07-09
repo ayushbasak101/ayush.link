@@ -135,18 +135,18 @@ export const Projects: Project[] = [
   },
   {
     name: "My Portfolio v0",
-    slug: "portfolio0",
+    slug: "portV0",
     image: {
-      url: "/cattype.webp",
+      url: "/port.webp",
       width: 400,
       height: 200,
-      alt: "CatType - A Modern Typing Practice App"
+      alt: "PortfolioV0 - my first portfolio"
     },
     urls: {
-      liveUrl: "https://cattype.live/",
-      githubUrl: "https://github.com/icantcodefyi/cattype"
+      liveUrl: "https://ayushworks.vercel.app/",
+      githubUrl: "https://github.com/IamBATMaN420/portfolio-v1"
     },
-    description: "A modern, customizable typing practice application featuring multiple themes, coding snippets, and real-time statistics. Built with Next.js and TypeScript, it offers various difficulty levels and programming language-specific practice modes.",
+   description: "My first portfolio project — a modern typing practice app built with Next.js and TypeScript. It features coding snippets, real-time stats, customizable themes, and language-specific practice modes to make typing both fun and developer-friendly.",
     tags: [
       "Next.js",
       "TypeScript",
