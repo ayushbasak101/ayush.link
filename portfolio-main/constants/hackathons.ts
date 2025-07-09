@@ -1,40 +1,40 @@
 export const hackathonWins = [
   {
-    name: "Hackistica '23",
-    venue: "IIT Indore",
+    name: "Hackistico '24",
+    venue: "Remote",
     description:
-      "My first hackathon and first win. Made a leetcode chrome extension here.",
+      "My first hackathon and first win. Made a YT chrome extension here.",
   },
   {
-    name: "EthIndia 2023",
-    venue: "KTPO Bangalore",
-    description: "My first flight to Blr, won multiple sponsor tracks here.",
+    name: "DobleSlash 2.0",
+    venue: "JU Kolkata",
+    description: "My first offline hackathon in JU, made into final by making a medical chatbot",
   },
   {
-    name: "Version Beta",
-    venue: "MANIT Bhopal",
+    name: "Hackstrom",
+    venue: "bppimt kolkata",
     description:
-      "Got 3rd place for making an blockchain based financial companion.",
+    " Won 3rd place for building Refelia — a public platform to locate free water refill stations and reduce plastic waste across India.",
   },
   {
-    name: "Syntax Error X",
-    venue: "IIT Roorkee",
+    name: "Hexafalls",
+    venue: "JIS Kolkata",
     description:
-      "Won manga maestro track, made a platform to submit your mangas and ai which tags them as nsfw or other tags.",
+     "Ranked in the top 10 for building an AI-powered SQL query companion at a hackathon."
   }
 ];
 
 export const hackathonOrganised = [
   {
     name: "HackWave 2024",
-    venue: "CDGI Indore",
+    venue: "CU Kolkata",
     description:
-      "My college's first hackathon. Did everything with a team of 3, from sending proposal to director, all the operations, designing swags, promotion, website ( https://hackwavee.vercel.app/ ) , got over 500 registrations , 40 teams offline in campus for the hackathon.",
+     " Built CU Kolkata’s first hackathon from scratch with a 3-member crew — pitched it, promoted it, designed swags, built the site, and pulled in 500+ registrations. 40 top teams joined us on campus for a non-stop innovation sprint.",
   },
   {
     name: "Imagine Hackathon",
-    venue: "Piwot PanIIT",
+    venue: "Cu Kolkata",
     description:
-      "Main organiser of the hackathon with Animesh, handled all the tech stuff onsite and operations in the hackathon. Went to Mumbai while my end sems were going on, did the hackathon, had accident ( fell from train ), came back Indore, gave my end sems, got 7.9 sgpa.",
+      "Organised Imagine Hackathon with Animesh — managed tech, logistics, and chaos. Traveled between cities mid-event, handled it all on-ground in Kolkata, and made sure the show never stopped. Pure hustle.",
   },
 ];
