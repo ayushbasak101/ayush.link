@@ -64,18 +64,18 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "Annapurna",
-    slug: "annapurna",
+    name: "DummyDB",
+    slug: "dummy",
     image: {
-      url: "/annu.webp",
+      url: "/dummy.webp",
       width: 400,
       height: 200,
-      alt: "Annu's Poems"
+      alt: "dummy DB"
     },
     urls: {
-      liveUrl: "https://annnu.art/",
+      liveUrl: "https://dummy-db.vercel.app/",
     },
-    description: "A collection of poems written by my precious - Annu.",
+    description: "An AI-powered SQL assistant that lets you talk to your data using natural language—query, analyze, and explore with ease.",
     tags: [
       "Next.js",
       "Typescript",
