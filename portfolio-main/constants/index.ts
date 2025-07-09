@@ -22,16 +22,16 @@ export const Projects: Project[] = [
     name: "Refelia",
     slug: "refelia",
     image: {
-      url: "/elafda.webp",
+      url: "/image.png",
       width: 400,
       height: 200,
       alt: "E-Lafda Platform - Discussion Platform with Twitter Integration"
     },
     urls: {
-      githubUrl: "https://github.com/icantcodefyi/elafda",
-      liveUrl: "https://elafda.fun/",
+      githubUrl: "https://github.com/IamBATMaN420/refilia_landing",
+      liveUrl: "https://refilia-landing.vercel.app/",
     },
-    description: "A comprehensive discussion platform built with Next.js 15, featuring Twitter integration, interactive polls, threaded comments, and modern UI/UX. Includes dynamic e-lafda pages, real-time voting, and rich media support with server components and TypeScript.",
+    description: "Refilia is a public utility platform that helps users locate free and low-cost water refill stations across India. Built with Next.js 15 and TypeScript, it promotes sustainable hydration by mapping refill points, public water ATMs, and partner cafés. With Twitter integration, real-time station updates, and a clean, responsive UI, Refilia empowers communities to reduce plastic use and access clean drinking water effortlessly.",
     tags: [
       "Next.js 15",
       "React 19",
@@ -42,7 +42,7 @@ export const Projects: Project[] = [
   },
   {
     name: "Bio-Wizard",
-    slug: "doblar",
+    slug: "biowizard",
     image: {
       url: "/doblar.webp",
       width: 400,

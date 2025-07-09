@@ -21,59 +21,7 @@ export const hackathonWins = [
     venue: "IIT Roorkee",
     description:
       "Won manga maestro track, made a platform to submit your mangas and ai which tags them as nsfw or other tags.",
-  },
-  {
-    name: "Genesis 1.0",
-    venue: "SRM Chennai",
-    description: "Won berachain track for making a web3 native game.",
-  },
-  {
-    name: "Udaymitsav '24",
-    venue: "IIT Jammu",
-    description:
-      "Won 1st in my track and overall 2nd prize for making a micro blogging solution.",
-  },
-  {
-    name: "HackHive",
-    venue: "DAVV Indore",
-    description:
-      "Won 1st prize for making an ai agent which let you interact with websites.",
-  },
-  {
-    name: "HackVSIT 5.0",
-    venue: "VSIT Delhi",
-    description:
-      "Won 3rd prize for making an csv analyser which generates dashboard based off the data.",
-  },
-  {
-    name: "Hakxite",
-    description:
-      "Won 1st prize for an ai based solution for deaf and dumb people.",
-  },
-  {
-    name: "WebGranth",
-    venue: "CDGI Indore",
-    description:
-      "Won 1st prize for making a all in one platform for learning new frameworks, technologies.",
-  },
-  {
-    name: "Unfold 2024",
-    venue: "Marriot Bangalore",
-    description:
-      "Won nethermind sponsor track for making an autonomous ai agent which can interact with blockchain and deploy its own smart contracts",
-  },
-  {
-    name: "EthIndia 2024",
-    venue: "KTPO Bangalore",
-    description:
-      "Won polkadot track for making a drag and drop smart contract builder.",
-  },
-  {
-    name: "The Better Hack",
-    venue: "WeWork Pune",
-    description:
-      "Won 2nd prize for making an ai based local seo agent which helps local businesses gain more visibility.",
-  },
+  }
 ];
 
 export const hackathonOrganised = [
