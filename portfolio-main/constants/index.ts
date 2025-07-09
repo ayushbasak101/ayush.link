@@ -25,7 +25,7 @@ export const Projects: Project[] = [
       url: "/refelia.webp",
       width: 400,
       height: 200,
-      alt: "E-Lafda Platform - Discussion Platform with Twitter Integration"
+      alt: "Refilia – Water Refill Station Locator Across India with Clean UI and Sustainability Focus"
     },
     urls: {
       githubUrl: "https://github.com/IamBATMaN420/refilia_landing",
@@ -41,25 +41,26 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "Bio-Wizard",
-    slug: "biowizard",
+    name: "Detoxxx",
+    slug: "detox",
     image: {
-      url: "/doblar.webp",
+      url: "/detox.webp",
       width: 400,
       height: 200,
-      alt: "Doblar - Local Image Converter"
+      alt: "Detox - YT distraction remover"
     },
     urls: {
-      liveUrl: "https://doblar.ani.ink/",
+      githubUrl:"https://github.com/IamBATMaN420/detox",
+      liveUrl: "https://chromewebstore.google.com/detail/detoxxx/gnakihjdkdnidjafcnafpjlgjhedepei?hl=en-GB&authuser=0",
     },
-    description: "Doblar is a fully local image converter. No files are sent anywhere as the conversion is completely local, ensuring privacy and security while converting between different image formats.",
+    description: "Detox is a distraction-free YouTube search tool. Built with WXT, React, and TypeScript, it removes recommendations and trending content to help you stay focused and consume videos intentionally without clickbait.",
     tags: [
-      "Image Converter",
-      "Local Processing",
-      "Privacy",
-      "Web App",
-      "TypeScript",
-      "React"
+"YouTube Tool",
+  "Distraction-Free",
+  "Content Filtering",
+  "WXT",
+  "React",
+  "TypeScript"
     ]
   },
   {
