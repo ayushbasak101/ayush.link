@@ -26,7 +26,7 @@ export const hackathonWins = [
 
 export const hackathonOrganised = [
   {
-    name: "HackWave 2024",
+    name: "Hacktech 2024",
     venue: "CU Kolkata",
     description:
      " Built CU Kolkata’s first hackathon from scratch with a 3-member crew — pitched it, promoted it, designed swags, built the site, and pulled in 500+ registrations. 40 top teams joined us on campus for a non-stop innovation sprint.",
