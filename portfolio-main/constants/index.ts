@@ -89,23 +89,24 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "Detox",
-    slug: "detox",
+    name: "ChotuBill",
+    slug: "cb",
     image: {
-      url: "/invoicely.png",
+      url: "/chotu.webp",
       width: 400,
       height: 200,
-      alt: "Invoicely - Create Beautiful & Professional Invoices"
+      alt: "ChotuBill - Create Beautiful & Professional Invoices for small bussi"
     },
     urls: {
-      liveUrl: "https://invoicely.gg/",
-      githubUrl: "https://github.com/legions-developer/invoicely"
+      liveUrl: "https://chotubill.vercel.app",
+      githubUrl: "https://github.com/IamBATMaN420/chotubill"
     },
-    description: "Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS",
+    description: "Chotu Bill is a fast, no-login invoice generator built for freelancers and indie devs. Create clean, professional invoices in seconds — no clutter, no accounts. ~ Proudly OSS",
     tags: [
       "Next.js",
       "Typescript",
-      "Pdfjs"
+      "Pdfjs",
+      "Twilo"
     ]
   },
   {
