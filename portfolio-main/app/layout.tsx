@@ -26,13 +26,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ani.ink",
+    url: "https://ayush-go.vercel.app/",
     siteName: "Ayush's Portfolio",
     title: "Ayush - Full Stack Developer",
     description: "Full Stack Web Developer and Designer from India, specializing in Next.js, React, and TypeScript.",
     images: [
       {
-        url: "/og.png",
+        url: "/og1.png",
         width: 1200,
         height: 675,
         alt: "Ayush's Profile Picture",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     creator: "@null",
     images: [
       {
-        url: "/og.png",
+        url: "/og1.png",
         width: 1200,
         height: 675,
         alt: "Ayush's Profile Picture",
