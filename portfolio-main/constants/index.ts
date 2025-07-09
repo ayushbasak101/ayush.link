@@ -110,26 +110,27 @@ export const Projects: Project[] = [
     ]
   },
   {
-    name: "DummyDB",
-    slug: "dummydb",
+    name: "BioWizard",
+    slug: "bw",
     image: {
-      url: "/autodiagram.webp",
+      url: "/lms.webp",
       width: 400,
       height: 200,
-      alt: "AutoDiagram - AI Powered Diagram Generation"
+      alt: "Biowizard - Ace NEET Biology with expert"
     },
     urls: {
-      liveUrl: "https://autodiagram.com/",
-      githubUrl: "https://github.com/icantcodefyi/diagram"
+      liveUrl: "https://lms-freelance.vercel.app/",
     },
-    description: "An AI-powered diagram generation tool that transforms text descriptions into professional diagrams. Supports 20+ diagram types including flowcharts, ER diagrams, architecture maps, and sequence diagrams with intelligent suggestions and error prevention.",
+    description: "Ace NEET Biology with expert-led videos, killer notes, and smart tests — all in one place.",
     tags: [
-      "AI",
-      "Diagram Generation",
-      "Next.js",
-      "TypeScript",
-      "SVG",
-      "SaaS"
+       "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Shadcn UI",
+    "EdTech",
+    "LMS",
+    "NEET Biology"
     ]
   },
   {
