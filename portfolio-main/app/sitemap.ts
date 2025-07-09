@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { Projects } from '@/constants'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://ani.ink'
+  const baseUrl = 'https://ayush-go.vercel.app/'
   
   // Base routes
   const routes = [
