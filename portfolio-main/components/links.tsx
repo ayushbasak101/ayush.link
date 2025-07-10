@@ -90,7 +90,7 @@ export default function Links() {
         />
       </a>
       <a
-        href="https://www.linkedin.com/in/the-os-coder/"
+        href="https://www.linkedin.com/in/batxcode/"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-row items-center justify-start gap-2.5 
