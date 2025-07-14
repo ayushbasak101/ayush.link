@@ -72,7 +72,7 @@ export default function Links() {
         />
       </a>
       <a
-        href="https://github.com/batxcode/"
+        href="https://github.com/ayushbasak101"
         target="_blank"
         rel="noopener noreferrer"
         className="flex flex-row items-center justify-start gap-2.5 

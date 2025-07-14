@@ -28,7 +28,7 @@ export const Projects: Project[] = [
       alt: "Refilia – Water Refill Station Locator Across India with Clean UI and Sustainability Focus"
     },
     urls: {
-      githubUrl: "https://github.com/batxcode/refilia_landing",
+      githubUrl: "https://github.com/ayushbasak101/refilia_landing",
       liveUrl: "https://refilia-landing.vercel.app/",
     },
     description: "Refilia is a public utility platform that helps users locate free and low-cost water refill stations across India. Built with Next.js 15 and TypeScript, it promotes sustainable hydration by mapping refill points, public water ATMs, and partner cafés. With Twitter integration, real-time station updates, and a clean, responsive UI, Refilia empowers communities to reduce plastic use and access clean drinking water effortlessly.",
@@ -50,7 +50,7 @@ export const Projects: Project[] = [
       alt: "Detox - YT distraction remover"
     },
     urls: {
-      githubUrl:"https://github.com/batxcode/detox",
+      githubUrl:"https://github.com/ayushbasak101/detox",
       liveUrl: "https://chromewebstore.google.com/detail/detoxxx/gnakihjdkdnidjafcnafpjlgjhedepei?hl=en-GB&authuser=0",
     },
     description: "Detox is a distraction-free YouTube search tool. Built with WXT, React, and TypeScript, it removes recommendations and trending content to help you stay focused and consume videos intentionally without clickbait.",
@@ -99,7 +99,7 @@ export const Projects: Project[] = [
     },
     urls: {
       liveUrl: "https://chotubill.vercel.app",
-      githubUrl: "https://github.com/batxcode/chotubill"
+      githubUrl: "https://github.com/ayushbasak101/chotubill"
     },
     description: "Chotu Bill is a fast, no-login invoice generator built for freelancers and indie devs. Create clean, professional invoices in seconds — no clutter, no accounts. ~ Proudly OSS",
     tags: [
@@ -144,7 +144,7 @@ export const Projects: Project[] = [
     },
     urls: {
       liveUrl: "https://ayushworks.vercel.app/",
-      githubUrl: "https://github.com/batxcode/portfolio-v1"
+      githubUrl: "https://github.com/ayushbasak101/portfolio-v1"
     },
    description: "My first portfolio project — a modern typing practice app built with Next.js and TypeScript. It features coding snippets, real-time stats, customizable themes, and language-specific practice modes to make typing both fun and developer-friendly.",
     tags: [
